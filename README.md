@@ -1,2 +1,6 @@
-# widgets
-React widgets for the CTRL dashboard
+# bauhaus
+"Dieter Rams for React"
+
+Bauhaus-inspired React control components, used in Flojoy Studio's operator dashboard.
+
+MIT licensed.
